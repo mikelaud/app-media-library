@@ -3,7 +3,7 @@
 Media Library Java-Application
 
 **Usage:**
-- https://github.com/mikelaud/app-media-library/blob/master/src/test/java/mikelaud/core/application/MediaLibraryApplication.java
+- https://github.com/mikelaud/app-media-library/blob/master/src/test/java/mikelaud/application/MediaLibraryApplicationDemo.java
 
 **Maven:**
 ```XML
